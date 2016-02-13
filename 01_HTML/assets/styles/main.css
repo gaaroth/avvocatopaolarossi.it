@@ -89,6 +89,10 @@ footer:after {
 
 header:after, footer:after {
   clear: both; }
+  
+.competenza-text {
+	height:370px;
+}
 
 .ryl-color-main {
   color: #FFDD3A; }
