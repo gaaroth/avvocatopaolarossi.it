@@ -94,6 +94,11 @@ header:after, footer:after {
 	height:370px;
 }
 
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
 .ryl-color-main {
   color: #FFDD3A; }
 
