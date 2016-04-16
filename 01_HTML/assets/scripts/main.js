@@ -395,7 +395,7 @@ jQuery(document).ready(function($) {
         }
     }
     RYLvideoModal();
-    
+
     /**
      * Submit contact form with ajax
      * @constructor
